@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    position: sticky;
+    top: 0;
+
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    margin: 20px 8px;
+}
+
+.navbar ul li{
+    font-family: unbound;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 5px 25px;
+}
