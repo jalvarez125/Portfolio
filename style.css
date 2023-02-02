@@ -37,3 +37,10 @@ body{
 .navbar li :hover{
     background-color: beige;
 }
+
+#about {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
